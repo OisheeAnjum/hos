@@ -1,0 +1,10 @@
+C:\Users\OISHEEANJUM\source\repos\hospital_management\bin\Debug\hospital_management.exe.config
+C:\Users\OISHEEANJUM\source\repos\hospital_management\bin\Debug\hospital_management.exe
+C:\Users\OISHEEANJUM\source\repos\hospital_management\bin\Debug\hospital_management.pdb
+C:\Users\OISHEEANJUM\source\repos\hospital_management\obj\Debug\hospital_management.csprojAssemblyReference.cache
+C:\Users\OISHEEANJUM\source\repos\hospital_management\obj\Debug\hospital_management.appointmenrt.resources
+C:\Users\OISHEEANJUM\source\repos\hospital_management\obj\Debug\hospital_management.Properties.Resources.resources
+C:\Users\OISHEEANJUM\source\repos\hospital_management\obj\Debug\hospital_management.csproj.GenerateResource.cache
+C:\Users\OISHEEANJUM\source\repos\hospital_management\obj\Debug\hospital_management.csproj.CoreCompileInputs.cache
+C:\Users\OISHEEANJUM\source\repos\hospital_management\obj\Debug\hospital_management.exe
+C:\Users\OISHEEANJUM\source\repos\hospital_management\obj\Debug\hospital_management.pdb
